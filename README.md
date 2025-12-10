@@ -121,10 +121,3 @@ CATATAN
 
 SELESAI
 ------------------------------------------------------------
-Jika ingin dibuatkan:
-- Versi GUI PowerShell
-- Versi EXE
-- Versi All-in-One Launcher
-
-Cukup bilang saja!
-
